@@ -74,3 +74,59 @@
     color: #ffffff;
   }
 }
+
+@media (min-width: 320px) {
+    .menu__links {
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 384px) {
+    .menu__links {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 480px) {
+    .menu__links {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 568px) {
+    .menu__links {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 375px) {
+    .menu__links {
+        font-size: 14px;
+    }
+}
+@media (min-width: 667px) {
+    .menu__links {
+        font-size: 28px;
+    }
+}
+@media (min-width: 414px) {
+    .menu__links {
+        font-size: 18px;
+    }
+}
+@media (min-width: 736px) {
+    .menu__links {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 600px) {
+    .menu__links {
+        font-size: 23px;
+    }
+}
+@media (min-width: 768px) {
+    .menu__links {
+        font-size: 35px;
+    }
+}
