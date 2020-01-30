@@ -51,10 +51,7 @@
 }
 
 @media screen and (max-width: 999px) {
-  .menu__icon{
-    display: inline-block;
-  }
-  
+    
   .menu__links {
     position: fixed;
     display: block;
